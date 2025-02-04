@@ -18,6 +18,8 @@ Clone the Repository:
 BASH
 
 git clone https://github.com/kaushik0988/Customer-Insights.git
+
+
 Install Dependencies:
 Ensure you have Python and the necessary libraries installed:
 
